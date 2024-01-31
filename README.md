@@ -1,6 +1,6 @@
 ## Welcome to DeveloperWay's GitHub page! 🔥
 
-Hello Devs, welcome/willkommen/dobrodošli/hoş geldin/benvenuti to my Github Page! 
+Hello Devs, Welcome, Willkommen, Dobrodošli, Hoş geldin, Benvenuti, to my Github Page! 
 I am Omar and I am a Mobile Developer. I am specialized in Android Development in Kotlin and also low-code development with Outsystems.
 I like to create applications that can be usefull for people, that is why I decided to start a new journey with the open-source community.
 I am starting to work finally on some small own projects and I hope that this could be a new path that gets me near the goals of my life.
