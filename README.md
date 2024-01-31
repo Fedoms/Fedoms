@@ -14,7 +14,7 @@ I am starting to work finally on some small own projects and I hope that this co
 - 🔭 I’m currently working on different projects that may be visible in few months
 - 🌱 I’m currently learning Kotlin Multi Platform and WASM
 - 👯 I’m looking to collaborate on different projects so I can create a wild portfolio and extedn my web connection
-- ⚡ Fun fact: I not consider my self as nerd but if you bring me THE RING that Biblo has in it's pocket I can be massivly productive! 
+- ⚡ Fun fact: I not consider my self as nerd but if you bring me THE RING that Bilbo Beggins has in it's pocket I can be massivly productive! 
 
 
 
