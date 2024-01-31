@@ -5,8 +5,8 @@ I am Omar and I am a Mobile Developer. I am specialized in Android Development i
 I like to create applications that can be usefull for people, that is why I decided to start a new journey with the open-source community.
 I am starting to work finally on some small own projects and I hope that this could be a new path that gets me near the goals of my life.
 
-[![Linkedin: DeveloperWay](https://img.shields.io/badge/-DeveloperWay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/developerway/)](https://www.linkedin.com/in/omar-al-bukhari-01776b111/)
-[![GitHub DeveloperWay](https://img.shields.io/github/followers/DeveloperWayIT?label=follow&style=social)](https://github.com/Fedoms)
+[![Linkedin: Omar Al Bukhari](https://img.shields.io/badge/-Omar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-al-bukhari-01776b111/)](https://www.linkedin.com/in/omar-al-bukhari-01776b111/)
+[![GitHub Omar Al Bukhari](https://img.shields.io/github/followers/Fedoms?label=follow&style=social)](https://github.com/Fedoms)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fedoms&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
