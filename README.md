@@ -1,9 +1,13 @@
-## Hello Devs, Welcome, Willkommen, Dobrodošli, Hoş geldin, Benvenuti, to my Github Page! 
-
+## Welcome to Omar's GitHub page! 
 
 I'm Omar, a seasoned Mobile Developer specializing in Android Development with Kotlin and proficient in low-code development using Outsystems. 
+
 My commitment to creating impactful applications extends to my active involvement in the open-source community. 
-As a proud member of the GDG (Google Developer Groups) community, I lead GDG Italy and GDG Venezia. Currently, I'm channeling my passion into working on diverse small projects within the community, hopeful that this journey will bring me closer to realizing my life goals.
+As a proud member of the GDG (Google Developer Groups) community, I lead GDG Italy and GDG Venezia. 
+
+Currently, I'm channeling my passion into working on diverse small projects within the community, hopeful that this journey will bring me closer to realizing my life goals.
+
+
 
 [![Linkedin: Omar Al Bukhari](https://img.shields.io/badge/-Omar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-al-bukhari-01776b111/)](https://www.linkedin.com/in/omar-al-bukhari-01776b111/)
 [![GitHub Omar Al Bukhari](https://img.shields.io/github/followers/Fedoms?label=follow&style=social)](https://github.com/Fedoms)
