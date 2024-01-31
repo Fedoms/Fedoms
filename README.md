@@ -8,8 +8,7 @@ I am starting to work finally on some small own projects and I hope that this co
 [![Linkedin: Omar Al Bukhari](https://img.shields.io/badge/-Omar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-al-bukhari-01776b111/)](https://www.linkedin.com/in/omar-al-bukhari-01776b111/)
 [![GitHub Omar Al Bukhari](https://img.shields.io/github/followers/Fedoms?label=follow&style=social)](https://github.com/Fedoms)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fedoms&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fedoms&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 I’m currently working on different projects that may be visible in few months
 - 🌱 I’m currently learning Kotlin Multi Platform and WASM
